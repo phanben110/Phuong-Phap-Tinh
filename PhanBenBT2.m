@@ -1,8 +1,7 @@
-% Bai Tap 1
-% Phan Ben - 18TDH1 - 105180273
-% SBD : 14
+% Bài Tập : 02 
+% Nhóm : 02
 
-A = [14 2 3 6; 3 4 5 1; 2 3 8 5; 4 9 4 4]; 
+A = [2 2 3 6; 3 4 5 1; 2 3 8 5; 4 9 4 4]; 
 [m,n]=size(A); 
 U=zeros(m);
 L=zeros(m);
