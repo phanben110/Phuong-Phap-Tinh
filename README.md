@@ -1,2 +1,2 @@
 # Phuong-Phap-Tinh
-Bài tập lập trình matlab phương pháp tính - Phan Ben
+Bài tập lập trình matlab phương pháp tính - Nhóm 02
